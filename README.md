@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Me chamo Anderson 👋
+
+Formado em ADS, buscando oportunidades de ingressar na área de desenvolvimento.
+
+Estudando HTML, CSS, JAVASCRIPT, C# E SQL-SERVER.
+
+
 
 <!--
 **sydom1/sydom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
