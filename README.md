@@ -11,7 +11,7 @@ Estudando HTML, CSS, JAVASCRIPT, C# E SQL-SERVER.
 
 ![Sydom1 GitHub stats](https://github-readme-stats.vercel.app/api?username=sydom1&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydom1)](https://github.com/sydom1/github-readme-stats)
 
 ## Tecnologias de estudo e pratica.
 
