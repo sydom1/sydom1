@@ -2,9 +2,10 @@
 
 Formado em ADS, buscando oportunidades de ingressar na área de desenvolvimento.
 
-Estudando HTML, CSS,BOOTSTRAP, JAVASCRIPT, C# E SQL-SERVER.
+Em constante aprendizado em: HTML, CSS,BOOTSTRAP, JAVASCRIPT, C# E SQL-SERVER.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ara%C3%BAjo-b00538220/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonteclasoficial/?next=%2F) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ara%C3%BAjo-b00538220/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonteclasoficial/?next=%2F) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579988171924)
+
 
 
 
