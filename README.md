@@ -1,8 +1,8 @@
 ### Olá! Me chamo Anderson 👋
 
-Formado em ADS, buscando oportunidades de ingressar na área de desenvolvimento de sistemas.
+Graduado em Analise e Densenvolvimento de Sistemas, Pós Graduado em Desenvolvimento WEB, buscando oportunidades de ingressar na área de TI.
 
-Em constante aprendizado em: HTML, CSS, BOOTSTRAP, JAVASCRIPT, C# E SQL-SERVER.
+Em constante aprendizado em: HTML, CSS, BOOTSTRAP, JAVASCRIPT, C#, React E SQL-SERVER / CiberSegurança (Blue Teem)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ara%C3%BAjo-b00538220/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonteclasoficial/?next=%2F) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579988171924) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sydom2013@gmail.com)
 
