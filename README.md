@@ -12,8 +12,8 @@ Em constante aprendizado em: HTML, CSS, BOOTSTRAP, JAVASCRIPT, C#, React E SQL-S
 
 
 ![Sydom1 GitHub stats](https://github-readme-stats.vercel.app/api?username=sydom1&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydom1)](https://github.com/sydom1/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydom1)](https://github.com/sydom1/github-readme-stats)-->
 <h3 align="center">🚀 Tecnologias mais usadas</h3>
 
 <p align="center">
