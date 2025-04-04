@@ -24,6 +24,10 @@ Em constante aprendizado em: HTML, CSS, BOOTSTRAP, JAVASCRIPT, C#, React E SQL-S
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=virustotal&logoColor=white" />
+
+
   
 </div>
 
