@@ -38,7 +38,7 @@ Em construção
 ## 📈 Estatísticas GitHub
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=sydom1&show_icons=true&theme=synthwave)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sydom1)](https://github.com/sydom1/github-readme-stats)-->
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sydom1)]
 
 ---
 
