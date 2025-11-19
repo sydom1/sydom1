@@ -54,9 +54,7 @@ Em construção
 
 ## 📞 Como me encontrar
 
-📩 **E-mail:** sydom2013@gmail.com  
-🔗 **LinkedIn:** [https://linkedin.com/in/anderson-araújo-santos](https://www.linkedin.com/in/anderson-ara%C3%BAjo-santos/) 
-💻 **Portfólio Web:** _em desenvolvimento_ (planejado para deploy)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ara%C3%BAjo-b00538220/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonteclasoficial/?next=%2F) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579988171924) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sydom2013@gmail.com) 
 
 ---
 
